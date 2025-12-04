@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on team **Attendance Mangment Application**
 
-- 👨‍💻 All of my projects are available at [https://monumental-raindrop-4f795d.netlify.app/](https://monumental-raindrop-4f795d.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://monumental-raindrop-4f795d.netlify.app/](https://desu-portfolio-rust.vercel.app/)
 
 - 💬 Ask me about **React,Javascript,Python,Tailwind CSS**
 
