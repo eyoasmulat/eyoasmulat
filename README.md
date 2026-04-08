@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dessalegn Mulat(Eyoas Mulat)</h1>
 <h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif">
-<p align="left"> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=eyoasmulat&label=Profile%20views&color=0e75b6&style=flat" alt="eyoasmulat" /></p>
 
 - 🔭 I’m currently studing on Software engineer **Project-Managment-System**
 
