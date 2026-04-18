@@ -7,9 +7,9 @@
   <img src="https://github.com/eyoasmulat/profile-Improve/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Dessalegn+Mulat;Eyoas+Mulat;A+passionate+Software+Engineer;From+Ethiopia+🇪🇹" alt="Typing Animation" />
-</h1>
+</h1> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eyoasmulat&label=✨Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
@@ -19,7 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+
 
 <table align="center">
 <tr>
@@ -49,8 +49,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
@@ -70,7 +68,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+
 
 ### ⚙️ Languages & Tools
 
@@ -99,7 +97,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+
 
 ### 🎯 Current Focus
 
