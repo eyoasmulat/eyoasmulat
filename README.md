@@ -118,6 +118,6 @@ mindmap
       PostgreSQL
       MySql
     Collaboration worked project
-      Hospital System
-      Import Export
-      Project Management
+     Digital Hospital System
+      Alikab Import Export System
+     Yod Project Management System
