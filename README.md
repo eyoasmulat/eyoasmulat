@@ -119,5 +119,5 @@ mindmap
       MySql
     Collaboration worked project
      Digital Hospital System
-      Alikab Import Export System
+     Alikab Import Export System
      Yod Project Management System
