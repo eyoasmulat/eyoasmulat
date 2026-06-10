@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/eyoasmulat/profile-Improve/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true" width="100%" alt="Banner"/>
+  <img src="https://github.com/eyoasmulat/eyoasmulat/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png" width="100%" alt="Banner"/>
 </p>
 
 <!-- <h1 align="center">
